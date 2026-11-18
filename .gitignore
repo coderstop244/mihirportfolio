@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# build output
+/.next
+/out
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+
+# misc
+.DS_Store
+*.pem
+*.tsbuildinfo

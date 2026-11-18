@@ -38,12 +38,12 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 ## Project Structure
 
 ```
-My-Portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
 ├── script.js           # JavaScript functionality
-├── portfolio profile.jpg  # Profile image
-└── MihirNewResume1.pdf   # Resume PDF
+├── public/             # Images and resume
+├── package.json        # Deployment scripts
+└── package-lock.json
 ```
 
 ## Technologies Used
